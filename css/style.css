@@ -1,0 +1,80 @@
+.kontak{
+    background: black;
+    padding-top: 0px;
+    width: 100%;
+    bottom: 0px;
+}
+.menu{
+    list-style: none;
+}
+.menu li{
+    display: inline;
+}
+.menu li a{
+    font-size: 13px;
+    color:gray;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+.header{
+    background: black;
+    padding: 0 30px;
+    padding-top: 15px;
+    width: 100%;
+}
+.menu li a:hover{
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    min-height: 100%;
+    position: relative;
+}
+
+}
+h1, h2{
+    margin: 0;
+    color: black;
+    font-weight: 500;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 25px;
+}
+
+.kontak h2{
+    color: #fff;
+}
+
+.pic{
+    width: 300px;
+    padding: 50px;
+}
+
+.pic2 {
+    width: 500px;
+    padding: 25px;
+}
+
+.form {
+    color: gray;
+}
+
+.cr{
+    bottom: 30px;
+    width: 100%;
+    color: #fff;
+}
+
+
